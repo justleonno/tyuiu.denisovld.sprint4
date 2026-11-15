@@ -1,6 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using tyuiu.denisovld.sprint4.Task3.V18.Lib;
-namespace tyuiu.denisovld.sprint4.Task2.V9.Test;
+namespace tyuiu.denisovld.sprint4.Task3.V18.Test;
 
 [TestClass]
 public sealed class DataServiceTest
